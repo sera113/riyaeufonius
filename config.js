@@ -1,5 +1,5 @@
 const config = {
-    localStoragePrefix: "party-rank-sorter",
-    title: "Party Rank Sorter",
+    localStoragePrefix: "riya-sorter",
+    title: "riya",
     description: "Party rank sorter for your custom list of songs."
 };
