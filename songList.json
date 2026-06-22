@@ -2,308 +2,315 @@
     {
         "id": 1,
         "anime": "Rozen Maiden - Ending 1",
-        "name": "\"Toumei Shelter\" by refio+Haruka Shimotsuki",
+        "name": "Toumei Shelter - refio+Haruka Shimotsuki",
         "video": "https://naedist.animemusicquiz.com/661ez4.webm",
         "mp3": "https://naedist.animemusicquiz.com/trlgsm.mp3"
     },
     {
         "id": 2,
         "anime": "Futakoi - Opening 1",
-        "name": "\"Habataku Mirai\" by eufonius",
+        "name": "Habataku Mirai - eufonius",
         "video": "https://naedist.animemusicquiz.com/o0e8tz.webm",
         "mp3": "https://naedist.animemusicquiz.com/msoi6u.mp3"
     },
     {
         "id": 3,
         "anime": "Futakoi - Ending 1",
-        "name": "\"Yawarakai Kaze no Naka de\" by eufonius",
+        "name": "Yawarakai Kaze no Naka de - eufonius",
         "video": "https://naedist.animemusicquiz.com/kvvxo6.webm",
         "mp3": "https://naedist.animemusicquiz.com/e376e4.mp3"
     },
     {
         "id": 4,
         "anime": "Futakoi Alternative - Ending 1",
-        "name": "\"Bokura no Jikan\" by eufonius",
-        "video": null,
+        "name": "Bokura no Jikan - eufonius",
+        "video": "https://naedist.animemusicquiz.com/2my4a9.webm",
         "mp3": "https://naedist.animemusicquiz.com/gk81w3.mp3"
     },
     {
         "id": 5,
         "anime": "Futakoi Alternative - Ending 2",
-        "name": "\"Bokura no Jikan ~memory~\" by eufonius",
-        "video": null,
+        "name": "Bokura no Jikan ~memory~ - eufonius",
+        "video": "https://naedist.animemusicquiz.com/p1orwv.webm",
         "mp3": "https://naedist.animemusicquiz.com/cx498s.mp3"
     },
     {
         "id": 6,
         "anime": "Futakoi Alternative - Ending 3",
-        "name": "\"Bokura no Jikan ~with you~\" by eufonius",
-        "video": null,
+        "name": "Bokura no Jikan ~with you~ - eufonius",
+        "video": "https://naedist.animemusicquiz.com/fllhu8.webm",
         "mp3": "https://naedist.animemusicquiz.com/twnzl0.mp3"
     },
     {
         "id": 7,
         "anime": "Kashimashi: Girl Meets Girl - Opening 1",
-        "name": "\"Koi Suru Kokoro\" by eufonius",
+        "name": "Koi Suru Kokoro - eufonius",
         "video": "https://naedist.animemusicquiz.com/9pl924.webm",
         "mp3": "https://naedist.animemusicquiz.com/sld2ye.mp3"
     },
     {
         "id": 8,
         "anime": "Noein: Mou Hitori no Kimi e - Opening 1",
-        "name": "\"Idea\" by eufonius",
-        "video": null,
+        "name": "Idea - eufonius",
+        "video": "https://naedist.animemusicquiz.com/s70w0z.webm",
         "mp3": "https://naedist.animemusicquiz.com/cve9y4.mp3"
     },
     {
         "id": 9,
         "anime": "Himawari! - Ending 1",
-        "name": "\"Guruguru ~himawari version~\" by eufonius",
-        "video": null,
+        "name": "Guruguru ~himawari version~ - eufonius",
+        "video": "https://naedist.animemusicquiz.com/grxei8.webm",
         "mp3": "https://naedist.animemusicquiz.com/hog17n.mp3"
     },
     {
         "id": 10,
         "anime": "True Tears - Opening 1",
-        "name": "\"Reflectia\" by eufonius",
+        "name": "Reflectia - eufonius",
         "video": "https://naedist.animemusicquiz.com/4qadpg.webm",
         "mp3": "https://naedist.animemusicquiz.com/18d6ul.mp3"
     },
     {
         "id": 11,
         "anime": "True Tears - Insert Song",
-        "name": "\"Namida no Kioku\" by eufonius",
+        "name": "Namida no Kioku - eufonius",
         "video": "https://naedist.animemusicquiz.com/vn3zv6.webm",
         "mp3": "https://naedist.animemusicquiz.com/657jmt.mp3"
     },
     {
         "id": 12,
         "anime": "True Tears - Insert Song",
-        "name": "\"Sono Mama no Boku de\" by eufonius",
+        "name": "Sono Mama no Boku de - eufonius",
         "video": "https://naedist.animemusicquiz.com/7jqcmx.webm",
         "mp3": "https://naedist.animemusicquiz.com/zo2k14.mp3"
     },
     {
         "id": 13,
         "anime": "Gekijouban Clannad - Opening 1",
-        "name": "\"Mag Mell\" by riya",
-        "video": null,
+        "name": "Mag Mell - riya",
+        "video": "https://naedist.animemusicquiz.com/bkcbdj.webm",
         "mp3": "https://naedist.animemusicquiz.com/2duly4.mp3"
     },
     {
         "id": 14,
+        "anime": "Gekijouban Clannad - Ending 1",
+        "name": "Chiisana Tenohira - eufonius",
+        "video": "https://naedist.animemusicquiz.com/e2ybv3.webm",
+        "mp3": "https://naedist.animemusicquiz.com/qc66cl.mp3"
+    },
+    {
+        "id": 15,
         "anime": "Gekijouban Clannad - Ending 2",
-        "name": "\"Marumero ~fildychrom~\" by eufonius",
+        "name": "Marumero ~fildychrom~ - eufonius",
         "video": "https://naedist.animemusicquiz.com/wenl1z.webm",
         "mp3": "https://naedist.animemusicquiz.com/vj4wa7.mp3"
     },
     {
-        "id": 15,
+        "id": 16,
         "anime": "Kashimashi: Girl Meets Girl - Opening 1",
-        "name": "\"Koi Suru Kokoro\" by eufonius",
+        "name": "Koi Suru Kokoro - eufonius",
         "video": "https://naedist.animemusicquiz.com/mwc55k.webm",
         "mp3": "https://naedist.animemusicquiz.com/uageqk.mp3"
     },
     {
-        "id": 16,
+        "id": 17,
         "anime": "Himawari!! - Ending 1",
-        "name": "\"Kirakira\" by eufonius",
-        "video": null,
+        "name": "Kirakira - eufonius",
+        "video": "https://naedist.animemusicquiz.com/xjwrxc.webm",
         "mp3": "https://naedist.animemusicquiz.com/uyjyu1.mp3"
     },
     {
-        "id": 17,
+        "id": 18,
         "anime": "Shinkyoku Soukai Polyphonica - Opening 1",
-        "name": "\"Apocrypha\" by eufonius",
-        "video": null,
+        "name": "Apocrypha - eufonius",
+        "video": "https://naedist.animemusicquiz.com/m30cci.webm",
         "mp3": "https://naedist.animemusicquiz.com/onekar.mp3"
     },
     {
-        "id": 18,
+        "id": 19,
         "anime": "Shinkyoku Soukai Polyphonica - Insert Song",
-        "name": "\"Rakuen\" by eufonius",
-        "video": null,
+        "name": "Rakuen - eufonius",
+        "video": "https://naedist.animemusicquiz.com/qfrxrh.webm",
         "mp3": "https://naedist.animemusicquiz.com/nsvm1g.mp3"
     },
     {
-        "id": 19,
+        "id": 20,
         "anime": "Clannad - Opening 1",
-        "name": "\"Mag Mell ~cuckool mix 2007~\" by eufonius",
+        "name": "Mag Mell ~cuckool mix 2007~ - eufonius",
         "video": "https://naedist.animemusicquiz.com/a1ed34.webm",
         "mp3": "https://naedist.animemusicquiz.com/grr2j9.mp3"
     },
     {
-        "id": 20,
+        "id": 21,
         "anime": "Clannad - Insert Song",
-        "name": "\"Kage Futatsu\" by riya",
+        "name": "Kage Futatsu - riya",
         "video": "https://naedist.animemusicquiz.com/jhqyur.webm",
         "mp3": "https://naedist.animemusicquiz.com/ujyn9f.mp3"
     },
     {
-        "id": 21,
+        "id": 22,
         "anime": "Clannad - Insert Song",
-        "name": "\"Kaze no Shoujo\" by riya",
+        "name": "Kaze no Shoujo - riya",
         "video": "https://naedist.animemusicquiz.com/bj1ecv.webm",
         "mp3": "https://naedist.animemusicquiz.com/0elu1a.mp3"
     },
     {
-        "id": 22,
+        "id": 23,
         "anime": "Clannad - Insert Song",
-        "name": "\"Over\" by riya",
+        "name": "Over - riya",
         "video": "https://naedist.animemusicquiz.com/6jr3ub.webm",
         "mp3": "https://naedist.animemusicquiz.com/7e3zm4.mp3"
     },
     {
-        "id": 23,
+        "id": 24,
         "anime": "Saishuu Shiken Kujira - Opening 1",
-        "name": "\"turning world\" by eufonius",
+        "name": "turning world - eufonius",
         "video": "https://naedist.animemusicquiz.com/riw7q6.webm",
         "mp3": "https://naedist.animemusicquiz.com/49u0sl.mp3"
     },
     {
-        "id": 24,
+        "id": 25,
         "anime": "Saishuu Shiken Kujira - Ending 1",
-        "name": "\"Tooi Natsuzora\" by eufonius",
+        "name": "Tooi Natsuzora - eufonius",
         "video": "https://naedist.animemusicquiz.com/3pp4ho.webm",
         "mp3": "https://naedist.animemusicquiz.com/lvp64r.mp3"
     },
     {
-        "id": 25,
+        "id": 26,
         "anime": "Clannad: After Story - Insert Song",
-        "name": "\"Chiisana Tenohira\" by riya",
+        "name": "Chiisana Tenohira - riya",
         "video": "https://naedist.animemusicquiz.com/nft2jx.webm",
         "mp3": "https://naedist.animemusicquiz.com/p2rie0.mp3"
     },
     {
-        "id": 26,
+        "id": 27,
         "anime": "Clannad: After Story - Insert Song",
-        "name": "\"Komorebi\" by riya",
+        "name": "Komorebi - riya",
         "video": "https://naedist.animemusicquiz.com/spqhnu.webm",
         "mp3": "https://naedist.animemusicquiz.com/62fe1g.mp3"
     },
     {
-        "id": 27,
+        "id": 28,
         "anime": "Clannad: After Story - Insert Song",
-        "name": "\"Shoujo no Gensou\" by riya",
+        "name": "Shoujo no Gensou - riya",
         "video": "https://naedist.animemusicquiz.com/0vcyyt.webm",
         "mp3": "https://naedist.animemusicquiz.com/3rvmdy.mp3"
     },
     {
-        "id": 28,
-        "anime": "Munto - Opening 1",
-        "name": "\"Anemoi\" by eufonius",
-        "video": null,
+        "id": 29,
+        "anime": "Sora o Miageru Shoujo no Hitomi ni Utsuru Sekai - Opening 1",
+        "name": "Anemoi - eufonius",
+        "video": "https://naedist.animemusicquiz.com/j00oni.webm",
         "mp3": "https://naedist.animemusicquiz.com/5ixv8s.mp3"
     },
     {
-        "id": 29,
+        "id": 30,
         "anime": "Shinkyoku Soukai Polyphonica Crimson S - Opening 1",
-        "name": "\"phosphorus\" by eufonius",
-        "video": null,
+        "name": "phosphorus - eufonius",
+        "video": "https://naedist.animemusicquiz.com/4m7mjd.webm",
         "mp3": "https://naedist.animemusicquiz.com/6z9y4y.mp3"
     },
     {
-        "id": 30,
+        "id": 31,
         "anime": "Gekijouban \"Bungaku Shoujo\" - Ending 1",
-        "name": "\"Haruka na Hibi\" by eufonius",
+        "name": "Haruka na Hibi - eufonius",
         "video": "https://naedist.animemusicquiz.com/7n1fxg.webm",
         "mp3": "https://naedist.animemusicquiz.com/xv1kwr.mp3"
     },
     {
-        "id": 31,
+        "id": 32,
         "anime": "Yosuga no Sora - Opening 1",
-        "name": "\"Hiyoku no Hane\" by eufonius",
+        "name": "Hiyoku no Hane - eufonius",
         "video": "https://naedist.animemusicquiz.com/ljvjuihj8n91ry7r.webm",
         "mp3": "https://naedist.animemusicquiz.com/zgj77a.mp3"
     },
     {
-        "id": 32,
+        "id": 33,
         "anime": "Mai no Mahou to Katei no Hi - Ending 1",
-        "name": "\"My Smile\" by eufonius",
-        "video": null,
+        "name": "My Smile - eufonius",
+        "video": "https://naedist.animemusicquiz.com/4ok0hd.webm",
         "mp3": "https://naedist.animemusicquiz.com/8bbq5h.mp3"
     },
     {
-        "id": 33,
+        "id": 34,
         "anime": "Mai no Mahou to Katei no Hi - Insert Song",
-        "name": "\"Kirari Kururi\" by eufonius",
-        "video": null,
+        "name": "Kirari Kururi - eufonius",
+        "video": "https://naedist.animemusicquiz.com/n60rzi.webm",
         "mp3": "https://naedist.animemusicquiz.com/chwuxf.mp3"
     },
     {
-        "id": 34,
+        "id": 35,
         "anime": "Kokoro Connect - Opening 1",
-        "name": "\"Paradigm\" by eufonius",
+        "name": "Paradigm - eufonius",
         "video": "https://naedist.animemusicquiz.com/uxtm6h.webm",
         "mp3": "https://naedist.animemusicquiz.com/wqivel.mp3"
     },
     {
-        "id": 35,
+        "id": 36,
         "anime": "Koitabi: True Tours Nanto - Ending 1",
-        "name": "\"sympathetic world\" by eufonius",
+        "name": "sympathetic world - eufonius",
         "video": "https://naedist.animemusicquiz.com/ov02pq.webm",
         "mp3": "https://naedist.animemusicquiz.com/4xhte2.mp3"
     },
     {
-        "id": 36,
+        "id": 37,
         "anime": "Koitabi: True Tours Nanto - Ending 2",
-        "name": "\"Kimi no Inryoku\" by eufonius",
+        "name": "Kimi no Inryoku - eufonius",
         "video": "https://naedist.animemusicquiz.com/czzfef.webm",
         "mp3": "https://naedist.animemusicquiz.com/so3ks4.mp3"
     },
     {
-        "id": 37,
+        "id": 38,
         "anime": "Koitabi: True Tours Nanto - Ending 3",
-        "name": "\"Paslaptis\" by eufonius",
+        "name": "Paslaptis - eufonius",
         "video": "https://naedist.animemusicquiz.com/trtgex.webm",
         "mp3": "https://naedist.animemusicquiz.com/4qmd4t.mp3"
     },
     {
-        "id": 38,
+        "id": 39,
         "anime": "Grisaia no Kajitsu - Insert Song",
-        "name": "\"Holograph\" by eufonius",
+        "name": "Holograph - eufonius",
         "video": "https://naedist.animemusicquiz.com/qvrwxj.webm",
         "mp3": "https://naedist.animemusicquiz.com/0w34ql.mp3"
     },
     {
-        "id": 39,
+        "id": 40,
         "anime": "Doushitemo Eto ni Hairitai - Opening 1",
-        "name": "\"Hajimari no Oto\" by eufonius",
+        "name": "Hajimari no Oto - eufonius",
         "video": "https://naedist.animemusicquiz.com/twuj07.webm",
         "mp3": "https://naedist.animemusicquiz.com/oyo7ii.mp3"
     },
     {
-        "id": 40,
+        "id": 41,
         "anime": "Doushitemo Eto ni Hairitai - Ending 1",
-        "name": "\"SMILE! SMILE! FINE!\" by eufonius",
+        "name": "SMILE! SMILE! FINE! - eufonius",
         "video": "https://naedist.animemusicquiz.com/oppgk9.webm",
         "mp3": "https://naedist.animemusicquiz.com/b6yrsm.mp3"
     },
     {
-        "id": 41,
+        "id": 42,
         "anime": "Konohana Kitan - Opening 1",
-        "name": "\"Kokoro ni Tsubomi\" by eufonius",
+        "name": "Kokoro ni Tsubomi - eufonius",
         "video": "https://naedist.animemusicquiz.com/3pu2jw.webm",
         "mp3": "https://naedist.animemusicquiz.com/gnkgvc.mp3"
     },
     {
-        "id": 42,
+        "id": 43,
         "anime": "Doushitemo Eto ni Hairitai 2 - Opening 1",
-        "name": "\"GIGGLING DAYS\" by eufonius",
+        "name": "GIGGLING DAYS - eufonius",
         "video": "https://naedist.animemusicquiz.com/ms54h1.webm",
         "mp3": "https://naedist.animemusicquiz.com/0ttbki.mp3"
     },
     {
-        "id": 43,
+        "id": 44,
         "anime": "Doushitemo Eto ni Hairitai 2 - Ending 1",
-        "name": "\"Link\" by eufonius",
+        "name": "Link - eufonius",
         "video": "https://naedist.animemusicquiz.com/8gfvlt.webm",
         "mp3": "https://naedist.animemusicquiz.com/rm31qk.mp3"
     },
     {
-        "id": 44,
+        "id": 45,
         "anime": "Clannad: After Story - Insert Song",
-        "name": "\"Sakura Jokyoku\" by riya",
+        "name": "Sakura Jokyoku - riya",
         "video": "https://naedist.animemusicquiz.com/amh16e.webm",
         "mp3": "https://naedist.animemusicquiz.com/9v08ii.mp3"
     }
